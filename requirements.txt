@@ -1,0 +1,14 @@
+api-client
+click
+click_completion
+click_help_colors
+colorama
+coloredlogs
+datetime
+jsondiff
+pandas
+prismacloud-api==5.1.6
+pydantic
+requests
+tabulate
+update_checker
