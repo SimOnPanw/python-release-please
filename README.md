@@ -19,5 +19,5 @@ Create a file into home directory .prismacloud/credentials.json with the followi
 ## Run the script
 
 ```console
-python3 code_security.py
+python3 main.py
 ```
